@@ -1,0 +1,6 @@
+{
+  "name": "Planejador de Biblioteca",
+  "description": "Uma ferramenta simples e intuitiva para planejar e ajustar o layout de bibliotecas escolares em planta baixa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
